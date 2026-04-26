@@ -18,7 +18,7 @@ This project investigates the retention rate and psychological behavior of walle
 ## 📊 Visual Insights
 *(Note: I built this Donut Chart using Python's Matplotlib to visualize the ratio of loyalists vs. opportunists).*
 
-![OP Airdrop Retention]<img width="1486" height="1534" alt="image (2)" src="https://github.com/user-attachments/assets/59f7512d-c7a1-446b-9d25-2f20505a3ca6" />
+<img width="1486" height="1534" alt="image (2)" src="https://github.com/user-attachments/assets/59f7512d-c7a1-446b-9d25-2f20505a3ca6" />
 
 ## 💡 Business Conclusion & Recommendations
 Based on the on-chain data analysis, the airdrop experienced significant immediate sell pressure. A large majority of the analyzed wallets fall into the **"Full Dumper"** category, having liquidated over 90% of their free tokens shortly after claiming. Conversely, only a smaller fraction demonstrated **"Diamond Hands"** loyalty.
